@@ -64,6 +64,4 @@ background-image: url("uwuface.png");
  #mute_button {
     flex: left;
     vertical-align: top;
-    width: 120px;
-    height: 80px;
 }
